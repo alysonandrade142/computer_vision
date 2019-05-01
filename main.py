@@ -2,6 +2,8 @@ from matplotlib import pyplot as plt
 import cv2 as cv
 import numpy as np
 
+#DATASET EXTRACTED FROM https://danbruno.net/writing/ocarina/
+
 def vertical(img):
 
     # Binarizamos a imagem
